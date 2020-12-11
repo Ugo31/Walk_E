@@ -29,6 +29,6 @@ Walking to the goal is still a work in progress rigth now the robot have har tim
 
 Next steps for the project are :
 
--Test the network on the real robot in real conditions. But the step from simulation to real life will probably be really hard.
+>Test the network on the real robot in real conditions. But the step from simulation to real life will probably be really hard.
 
--Train the network to be able to walk on non flat grounds
+>Train the network to be able to walk on non flat grounds

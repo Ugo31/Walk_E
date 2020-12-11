@@ -8,6 +8,8 @@ The robot is a simple structure with only 2 legs, each legs can be controled usi
 
 Here is a picture of the model used:
 
+![walk-e and the goal](/Pictures/pic1.png)
+
 The robot is obsiously not stable and it is impossible for walk-e to stand up without any control.
 
 The philosophy behing the project is the following : In nature nothing is perfect, the ground is never flat and nothing is symetric, if you need perfect conditions and expensive components to make your robot walk, the control law should just be better. That is why walk-e is built using so cheap components besides the obvious lack of budget.

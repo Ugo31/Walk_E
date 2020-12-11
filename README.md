@@ -21,9 +21,11 @@ To make a solid control law, the project is using a reinforcement (**Soft Actor 
 The first step to control the robot is to make it stand up without falling :
 
 ![walk-e standing](/Pictures/standing.gif)
-![walk-e jumping](/Pictures/onefoot.gif)
 
 The control law is so good we can even force the robot to only use one leg.
+
+![walk-e jumping](/Pictures/onefoot.gif)
+
 
 >Goal is represented with the **blue cube**, feet frictions coeficients are random to help with a future real life test (it makes a more robust model)
 

@@ -1,6 +1,9 @@
 # Walk_E
 Fork of my walk_e GITLAB private project.
-[The code will be avaiable when I think it's good enougth to be public.]
+[The code will be avaiable soon.]
+
+A more complete presentation of the project in french can be found here : https://docs.google.com/document/d/11bqnRA6VvR8L3Jr-xuVALNyKkRS9XhcHQkwYpmjD0F8/edit?usp=sharing
+
 
 The goal of this project is to solve the dynamic walking problem for bipedals robots. The robot used as an example here is called Walk-e, a 3D printed robot based on the Cassie model from agility robotics made by myself.
 
